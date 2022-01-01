@@ -212,14 +212,14 @@ body {
 
 .wish-hbd {
   font-size: 3em;
-  margin: 0;
+  margin: 10px 10px 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
   font-weight: lighter;
   font-size: 2rem;
-  display: inline-block;
+  margin: 10px 0 0;
 }
 
 .nine p {
@@ -289,7 +289,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 
   .nine p {
